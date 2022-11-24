@@ -5,3 +5,6 @@ author: Apilonius64
 github_username: UranosNetworkCreation
 
 theme: minima
+
+header_pages:
+  - "home.md"

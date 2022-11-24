@@ -6,6 +6,8 @@ github_username: UranosNetworkCreation
 
 remote_theme: "dracula/gh-pages"
 
+show_header: true
+
 header_pages:
   - index.md
 

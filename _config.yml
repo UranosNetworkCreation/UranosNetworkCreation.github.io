@@ -14,4 +14,3 @@ include:
 
 exclude:
   - .gitignore
-  - README.md

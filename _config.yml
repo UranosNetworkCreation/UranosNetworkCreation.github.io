@@ -7,10 +7,11 @@ github_username: UranosNetworkCreation
 theme: minima
 
 header_pages:
-  - _pages/home.md
+  - index.md
 
 include:
   - _pages
 
 exclude:
   - .gitignore
+  - README.md

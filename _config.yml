@@ -4,7 +4,7 @@ author: Apilonius64
 
 github_username: UranosNetworkCreation
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "dracula/gh-pages"
 
 header_pages:
   - index.md

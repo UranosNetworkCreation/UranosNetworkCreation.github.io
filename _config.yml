@@ -20,4 +20,5 @@ exclude:
   - README.md
 
 github:
-  zip_url: https://github.com/UranosNetworkCreation/UNC/archive/refs/heads/main.zip
+  zip_url: https://github.com/UranosNetworkCreation/UNC/zipball/main
+  tar_url: https://github.com/UranosNetworkCreation/UNC/tarball/main

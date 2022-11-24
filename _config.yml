@@ -8,6 +8,7 @@ remote_theme: "dracula/gh-pages"
 
 show_header: true
 show_downloads: true
+icon: logo.png
 
 header_pages:
   - index.md

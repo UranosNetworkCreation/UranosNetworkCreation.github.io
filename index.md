@@ -1,4 +1,3 @@
-[Home](https://uranosnetworkcreation.github.io/) [Story]() [Resources]() [More]()
 # Homepage
 
 ## The plan

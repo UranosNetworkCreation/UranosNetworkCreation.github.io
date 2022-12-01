@@ -12,7 +12,7 @@ show_downloads: true
 header_pages:
   - index.md
 
-description: [Home](https://uranosnetworkcreation.github.io/)
+description: "[Home](https://uranosnetworkcreation.github.io/)"
 
 include:
   - _pages

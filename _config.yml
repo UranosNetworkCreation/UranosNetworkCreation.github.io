@@ -12,7 +12,7 @@ show_downloads: true
 header_pages:
   - index.md
 
-description: "<a href='https://uranosnetworkcreation.github.io/'>Home</a> | <a href='https://uranosnetworkcreation.github.io/story'>Story</a>"
+description: "<a href='https://uranosnetworkcreation.github.io/'>Home</a> <a href='https://uranosnetworkcreation.github.io/showcase'>Showcase</a> <a href='https://uranosnetworkcreation.github.io/dev'>How it works</a> <a href='https://uranosnetworkcreation.github.io/story'>Story</a> <a href='https://uranosnetworkcreation.github.io/licenses'>Licenses</a>"
 
 include:
   - _pages

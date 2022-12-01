@@ -22,4 +22,5 @@ exclude:
 github:
   zip_url: https://github.com/UranosNetworkCreation/UNC/zipball/main
   tar_url: https://github.com/UranosNetworkCreation/UNC/tarball/main
+  repository_url: https://github.com/UranosNetworkCreation/UNC
   Home: "/"

@@ -12,8 +12,6 @@ show_downloads: true
 header_pages:
   - index.md
 
-header: index.md
-
 include:
   - _pages
 
